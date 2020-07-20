@@ -1,2 +1,2 @@
 # GitTest
-Just a testing project
+Just a testing project .
